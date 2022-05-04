@@ -25,6 +25,7 @@ Steps followed:
 
 
 "Additional Details"
+
 Ways used to handle the missing values:  
 1.	Deleting the missing values
 2.	Imputing the missing values
