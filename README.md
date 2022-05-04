@@ -2,10 +2,10 @@
 Develop a data-driven credit risk model to predict the probabilities of default (PD) 
 
 Steps followed:
-1.	Observe the dataset by determining the size including number of rows and columns the dataset holds.
+1.	Observed the dataset by determining the size including number of rows and columns the dataset holds.
 2.	Understand the variables that will help in making decisions.
 3.	Categories the variables into continuous, discrete and categorical and visualise the data. Check if there is outliers or skewness in the variables that helps to understand the data better. 
-4.	Look for the missing values in the dataset and what cause them missing. Is it missing at random or missing not at random.
+4.	Looked for the missing values in the dataset and what cause them missing. Is it missing at random or missing not at random.
 5.	Used StandardScaler for feature Scaling
 6.	Used Resampling Technique to handle imbalance Data
 7.	Build the following models to predict PD
