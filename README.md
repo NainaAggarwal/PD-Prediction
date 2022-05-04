@@ -23,7 +23,9 @@ Steps followed:
 10: Determine the top most important predictor variables in the models
 
 
-Two primary ways used to handle the missing values:  
+
+"Additional Details"
+Ways used to handle the missing values:  
 1.	Deleting the missing values
 2.	Imputing the missing values
 
